@@ -1,7 +1,7 @@
 {
     "name": "timeinc/tealium-bundle",
     "description": "Tealium Implementation for Symfony",
-    "type": "tealium",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
